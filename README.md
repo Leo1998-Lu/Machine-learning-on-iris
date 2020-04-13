@@ -10,7 +10,8 @@
 |随机森林(Random forest)| 93.3636% |0.059620|
 |支持向量机SVM| 96.1818% |0.046851|
 
-![图片alt](https://github.com/Leo1998-Lu/Machine-learning-on-iris/blob/master/Figure_1.png''Figure 1. Comparison chart of prediction accuracy of four algorithms'')
+*Figure 1. Comparison chart of prediction accuracy of four algorithms*
+![image](https://github.com/Leo1998-Lu/Machine-learning-on-iris/blob/master/Figure_1.png)
 
 
 
